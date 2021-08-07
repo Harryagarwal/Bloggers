@@ -1,0 +1,124 @@
+ #hd1{
+    font-family: cursive;
+    font-weight: 900; 
+    font-size: 3.5em; 
+    color: bisque;
+    text-decoration: underline;
+} 
+#contribute{
+    color: crimson;
+    font-family: 'Libre Baskerville', serif;
+    color: dimgrey;
+}
+
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+    color:brown;
+  font-family: Verdana;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  }
+  .login-div {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    width: 90%;
+    height: 70%;
+    padding: 60px 35px 35px 35px;
+    margin-left: auto;
+    border-radius: 40px;
+    background: #ecf0f3;
+    box-shadow: 13px 13px 20px #cbced1,
+                -13px -13px 20px #ffffff;
+  }
+  .form-control{
+    border: none;
+    outline:none;
+    background: none;
+    color: #555;
+    border-radius: 25px;
+  box-shadow: inset 8px 8px 8px #cbced1,
+              inset -8px -8px 8px #ffffff;
+  }
+  .form-control2{
+    border: none;
+    outline:none;
+    background: none;
+    color: #555;
+    /* border-radius: 25px; */
+  box-shadow: inset 8px 8px 8px #cbced1,
+              inset -8px -8px 8px #ffffff;
+  }
+  .design{
+    outline: none;
+    border:none;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: 700;
+    color:#24cfaa;
+  text-align: center;
+  background: #fff;
+  box-shadow: 3px 3px 8px #b1b1b1,
+              -3px -3px 8px #ffffff;
+  transition: 0.5s;
+  }
+  .design:hover{
+    background:#2fdbb6;
+  }
+  .design:active{
+    background:#1da88a;
+  }
+  .design1{
+    outline: none;
+    border:none;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: 700;
+    color:#fff;
+  text-align: center;
+  background: #24cfaa;
+  box-shadow: 3px 3px 8px #b1b1b1,
+              -3px -3px 8px #fff;
+  transition: 0.5s;
+  }
+  .design1:hover{
+    background:#fff;
+    color: #2fdbb6;
+  }
+  .design1:active{
+    background:#1da88a;
+  }
+  .form-label{
+      font-family: 'Ubuntu', sans-serif;
+  }
+  .form-label1{
+      font-family: 'Ubuntu', sans-serif;
+  }
+  /* #caro{
+    height: 750px;
+  } */
+  #photo{
+    height: 700px;
+  }
+  .link{
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .para{
+    font-family: 'Courgette', cursive;
+    color: darkmagenta;
+    text-align: center;
+  }
+.titl{
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    color: maroon;
+    text-decoration: underline;
+}
+#players{
+  font-family: 'Abril Fatface', cursive;
+  color: indigo;
+}
+.footer{
+  font-family: cursive;
+}
